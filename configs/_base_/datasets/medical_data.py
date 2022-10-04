@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = 'CocoDataset'
-data_root = "/home/workspace/dataset"
+data_root = "../../../dataset"
 
 test_anno = "test_annotations.json" # 출력은 "test_partial_annotations.json"
 valid_anno = "valid_annotations.json" # 출력은 "valid_partial_annotations.json"

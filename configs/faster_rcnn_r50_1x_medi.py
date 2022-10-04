@@ -16,7 +16,7 @@ model = dict(
     )
 )
 
-load_from = "/home/workspace/FasterRCNN/checkpoints/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth"
+load_from = "../checkpoints/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth"
 
 checkpoint_config = dict(interval=4)
 
