@@ -21,8 +21,12 @@ This code is based on mmdetection and used Faster-RCNN for baseline.
 - tqdm
 - pandas
 
-To use this code, please first install the 'mmcv-full' and 'mmdet' by following the official guideline guidelines ([`mmdet`](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md)).
+To use this code, please first install the 'mmcv-full' and 'mmdet' by following the official guideline guidelines ([`mmcv`](https://github.com/open-mmlab/mmcv/blob/master/README.md),[`mmdet`](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md)).
 
+
+### Prepare dataset
+You can download the dataset at the below url
+https://drive.google.com/file/d/1Wvjufva0Y49qwimDIb6Cr6EWutpv4edm/view?usp=sharing
 
 ### Pre-trained Faster-RCNN model
 please download the pre-trained via shell script
