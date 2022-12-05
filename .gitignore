@@ -1,0 +1,4 @@
+*.pickle
+*.pth
+Traffic/data
+*.csv
